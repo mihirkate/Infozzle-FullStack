@@ -1,3 +1,36 @@
+### Home Page 
+![image](https://github.com/user-attachments/assets/09240a09-6281-45b5-b8f1-2732e92a800b)
+
+### Register Page 
+![image](https://github.com/user-attachments/assets/fffaa179-52c6-4847-86a7-76a8102b255f)
+
+### Login Page 
+![image](https://github.com/user-attachments/assets/30e73763-d2e2-429e-9267-2847f9066f89)
+
+### All Products Page 
+## route -->http://127.0.0.1:8000/products
+![image](https://github.com/user-attachments/assets/1c2d4c0c-5b1d-4838-bfdb-ef326635aa4f)
+
+### Product Detail Page 
+![image](https://github.com/user-attachments/assets/aa20b3eb-93be-434c-bf1a-2536b8bfa6c1)
+
+### Create product 
+![image](https://github.com/user-attachments/assets/3c36bfa8-203d-4a75-bc0b-88a926a03b1f)
+
+### edit Page 
+![image](https://github.com/user-attachments/assets/1d2e9dc6-ff10-4ddd-90c2-fea66f93d5d3)
+
+### All Users 
+Route --> http://127.0.0.1:8000/users
+![image](https://github.com/user-attachments/assets/de3bedab-959c-483a-8ac2-2c2df7be6677)
+
+
+### For Logout 
+### route http://127.0.0.1:8000/login
+
+
+
+
 # Project Installation Guide
 
 This is a Laravel-based project that allows you to manage products, and more. Follow the steps below to set it up and run the project locally on your machine.
