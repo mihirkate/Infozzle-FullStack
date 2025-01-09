@@ -1,3 +1,43 @@
+# Project Installation Guide
+
+This is a Laravel-based project that allows you to manage products, and more. Follow the steps below to set it up and run the project locally on your machine.
+
+## Prerequisites
+
+Before you begin, ensure that you have the following software installed:
+
+- **XAMPP**: To run Apache and MySQL (or any other local server setup you prefer).
+- **MySQL Workbench**: For managing the MySQL database.
+- **Composer**: To install PHP dependencies. Download and install Composer from [here](https://getcomposer.org/download/).
+
+## Step 1: Clone the Repository
+
+First, clone the project repository from GitHub to your local machine.
+### Navigate into the project directory:
+
+### configure your env  
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_database_name
+DB_USERNAME=root
+DB_PASSWORD=
+
+### composer install
+### create your database in phpmyadmin / mysql 
+###  Run Migrations
+php artisan migrate
+### Step 6: Serve the Application
+To run the application locally, use the built-in PHP server provided by Laravel:
+
+php artisan serve
+
+
+### Step 7: Access the Application
+You can now open your browser and go to http://127.0.0.1:8000 to access the application.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
